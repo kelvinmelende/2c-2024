@@ -2,7 +2,24 @@
     margin: 0;
     padding: 0;
 }
-.cabecalho{
+.cabecalho{*/este é o cabeçalho com suas configurações*/
     background-color: #16FF00;
     color: black;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 15px 0;
+}
+.cabecalho_titulo{
+    color:black;
+    font-size:  50px;
+}
+.cabecalho_imagem{
+    width: 100%;
+    align-items: normal;
+}
+.cabecalho_lista{
+    display: inline-block;
+    font-size: 25px;
+    margin: 0 16px;
 }
