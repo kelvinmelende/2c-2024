@@ -67,6 +67,12 @@
     font-weight: 400;
     font-size: 65px;
     }
+    .sevillana-regular {
+        font-family: "Sevillana", cursive;
+        font-weight: 400;
+        font-style: normal;
+      }
+      
     .corpo_textos{
     display: flex;
     flex-direction: column;
